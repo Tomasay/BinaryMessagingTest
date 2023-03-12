@@ -1,0 +1,16 @@
+{
+    "name": "BestHTTP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:767fe67aa4f6dd54892bf5c4480ea1dc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
